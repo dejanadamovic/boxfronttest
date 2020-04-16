@@ -1,0 +1,3 @@
+name BoxFront
+debug false
+CefConfig { Kiosk:true }
